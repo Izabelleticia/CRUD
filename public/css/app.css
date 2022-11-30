@@ -1,0 +1,21 @@
+.col-4,
+.col-7 { 
+    padding: 20px;
+    border-radius: 10px;
+}
+
+button {
+    width: 100%;
+
+}
+.form-group,
+img {
+   
+    margin-bottom: 20px;
+}
+.row {
+    width: 100%;
+}
+.logo {
+    width: 50%;
+}
